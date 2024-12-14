@@ -1,3 +1,6 @@
+def func():
+    print("ааа")
+
 def main():
     print('Привет')
     print("КАк дела")
